@@ -1,0 +1,58 @@
+body{
+    background: radial-gradient(circle at -1% 57.5%, rgb(19, 170, 82) 0%, rgb(0, 102, 43) 90%);
+       opacity: 1;
+    height: 60pc;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#search{
+    height: 2.5pc;
+    width: 18pc;
+}
+#submit{
+    margin-bottom: 5px;
+}
+.card {
+    background: radial-gradient(circle at -1% 57.5%, rgb(19, 170, 82) 0%, rgb(0, 102, 43) 90%);
+    opacity: 1;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .sub {
+    display: none;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    margin: 1rem 0 1rem 0;
+    padding: 1rem 0 1rem 0;
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(7.5px);
+    -webkit-backdrop-filter: blur(7.5px);
+    border-radius: 10px;
+    width: 25pc;
+    height: 40pc;
+  }
+  
+  .left {
+    padding: 0 2rem;
+  }
+  
+  
+  .left div {
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(7.5px);
+    -webkit-backdrop-filter: blur(7.5px);
+    border-radius: 10px;
+    height: 3pc;
+    opacity: .8;
+    margin-bottom: .6rem;
+    padding: .22rem;
+    color: black;
+}
+
