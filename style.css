@@ -10,6 +10,7 @@ h1{
 #search{
     height: 2.5pc;
     width: 18pc;
+    background-color: white;
 }
 #submit{
     margin-bottom: 5px;
